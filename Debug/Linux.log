@@ -1,0 +1,10 @@
+﻿  Stack.c
+  Queue.c
+  Process.c
+c:\users\mr.小世界\documents\visual studio 2017\projects\linux\linux\pthread.h(41): error C2011: “timespec”:“struct”类型重定义
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(39): note: 参见“timespec”的声明
+c:\users\mr.小世界\documents\visual studio 2017\projects\linux\linux\pthread.h(72): error C4996: '_ftime64': This function or variable may be unsafe. Consider using _ftime64_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\sys\timeb.h(76): note: 参见“_ftime64”的声明
+  mian.c
+  Error.c
+  正在生成代码...
